@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GRDB",
+        "repositoryURL": "https://github.com/groue/GRDB.swift.git",
+        "state": {
+          "branch": null,
+          "revision": "dfca044433050bb3e297761bf827e01ef376f5d9",
+          "version": "5.18.0"
+        }
+      },
+      {
+        "package": "Kanna",
+        "repositoryURL": "git@github.com:tid-kijyun/Kanna.git",
+        "state": {
+          "branch": null,
+          "revision": "f9e4922223dd0d3dfbf02ca70812cf5531fc0593",
+          "version": "5.2.7"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
