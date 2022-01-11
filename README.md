@@ -38,10 +38,10 @@ DocsetGenerator is covered by the MIT license included in the `LICENSE` file.
 
 All textual content is licensed as below:
 
-A Tinderbox Reference File (c) by Mark Anderson
-
-A Tinderbox Reference File is licensed under a
-Creative Commons Attribution 4.0 International License.
-
-You should have received a copy of the license along with this
-work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
+> A Tinderbox Reference File ('aTbRef') by [Mark Anderson](https://atbref.com/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+>
+> [Mark Anderson](https://www.shoantel.com/) should be acknowledged as the creator of this Tinderbox document (plus associated images, HTML export templates, etc.) and website produced from it.
+>
+> Parts of this document that directly quote copyright materials from Eastgate Systems Inc., e.g. the manual, release notes, etc., and do so with permission from Eastgate Systems Inc.
+>
+> The input of the following (as further explained at '[Origin of aTbRef](https://acrobatfaq.com/atbref9/index/AboutaTbRef/OriginofaTbRef.html)') should be acknowledged: [Mark Bernstein](http://www.markbernstein.org/) & [Eastgate Systems Inc.](http://www.eastgate.com/), Benoit Pointet, and [Matt Neuburg](https://www.apeth.net/matt/).
